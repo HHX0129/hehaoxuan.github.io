@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-01-08 14:38:04
- * @LastEditTime : 2020-01-08 17:47:51
+ * @LastEditTime : 2020-01-08 17:50:40
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /hhx.github.io/assets/js/login.js
@@ -23,6 +23,6 @@ submitBtn.click(() => {
     //port:返回端口号
     //pathname:返回路径
     //hash：返回片段 #后面的内容，常见链接 锚点
-    location.href = '../../html5up-prologue/index.html'
+    location.href = '../../hhx/html5up-prologue/index.html'
   }
 })
